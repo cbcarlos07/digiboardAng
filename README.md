@@ -1,2 +1,0 @@
-# digiboardAng
-Sistema em angular
